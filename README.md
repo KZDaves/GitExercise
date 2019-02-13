@@ -1,1 +1,2 @@
 # GitExercise
+Janak Tripathee
